@@ -1,0 +1,4 @@
+# Release signing key(s) — OpenSSH allowed_signers format.
+# YubiKey 5 NFC (fw 5.7.4) on fw01, created 2026-10-14, touch + PIN (verify-required).
+# SHA256:pEW2Bq8xEDxj+so0YLM2ANox14CqDCUju17SKLd4ch0
+cd-release@cellulardefense.net sk-ecdsa-sha2-nistp256@openssh.com AAAAInNrLWVjZHNhLXNoYTItbmlzdHAyNTZAb3BlbnNzaC5jb20AAAAIbmlzdHAyNTYAAABBBPPQH2x2fSUI9S7IgAUjRBIPebQGfwtcYSdoaBVnxkrcw9kvvPktsyUJsWKerb6XNVkeGiRuQcLnwW5xPT+uNw0AAAAOc3NoOmNkLXJlbGVhc2U= cd-release@cellulardefense.net
