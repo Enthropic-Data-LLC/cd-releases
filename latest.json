@@ -1,13 +1,13 @@
 {
   "schema": "cd-release/1",
   "origin": "https://app.cellulardefense.net",
-  "sequence": 8,
-  "commit": "24b6a13155f861a36e27ac4b784c65cc2cff2e0f",
-  "released_at": "2026-11-03T14:02:30Z",
+  "sequence": 9,
+  "commit": "506ddc69ece1fe50228b4dfa070b9e24e3396192",
+  "released_at": "2026-11-05T00:50:38Z",
   "csp": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; worker-src 'self' blob:; connect-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; frame-ancestors 'none'",
   "files": {
     "/": "608aeb93b0d07f5de5d3075460bf8e9f309594569fcc4050c24873a9d49112f0",
-    "/app.js": "8134f2c7ed80f58a73ea9ac3c5042fcba1d808e7055f20a783fcd6dc0c777e3c",
+    "/app.js": "b33f487cec532fbeb9fbad69b37f6ffd6a712c99570adab1ec7ad1c826d3abc3",
     "/favicon-192.png": "e68c8d408fe79405882ca23218a7c915e01ecb6b6fd6cd63ec9940a795965215",
     "/favicon-512.png": "924343e2705c753e6c6dbe2775b5e8eb7f9317dba8c7e3b64d43f18bd6495618",
     "/favicon.ico": "42bef7318eb5645b36c0f4377d14db65747a7d2b38f733560dda963e1522b45b",
