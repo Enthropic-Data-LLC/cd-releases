@@ -1,13 +1,13 @@
 {
   "schema": "cd-release/1",
   "origin": "https://app.cellulardefense.net",
-  "sequence": 13,
-  "commit": "bb0fbac486c4c291fdbb71962f44a3cb0810ef5d",
-  "released_at": "2026-11-08T20:13:58Z",
+  "sequence": 14,
+  "commit": "b1c9facb3e680fab208a3017e4ebffc7f5f13aaa",
+  "released_at": "2026-11-10T00:54:37Z",
   "csp": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; worker-src 'self' blob:; connect-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; frame-ancestors 'none'",
   "files": {
     "/": "8ebc348da7a1ac9cb16a74e6d286682f00341cc9c61b5905eeb6a291d38fef39",
-    "/app.js": "5788c06dd9ec48c971919f881cf134c17a599620b32187377619c894202aa198",
+    "/app.js": "ad897868c72c5c73b7785cdaee70cd7f523ec46fce2b01811f78a3c17dc6c1ea",
     "/cap.js": "fe806c14cc6b96386635a201b40ee9f02a55dc62c86a59324e363a197b63180f",
     "/charts.js": "8b4b6b3adbc01b9a73a52409eb9302f26c30f71f34b9b6862310c110520f6637",
     "/favicon-192.png": "e68c8d408fe79405882ca23218a7c915e01ecb6b6fd6cd63ec9940a795965215",
@@ -50,7 +50,7 @@
     "/support.js": "bcfa223d476b03dc09c048211e6d286cd55a858793c97dfafaedf4bb5bb88d55",
     "/vendor/cap-widget.js": "97ed03b905a0bdb104f58fb971cfc1ffad72fa35c0b57dd6833f7fc3b48c77d7",
     "/vendor/cap_wasm_bg.wasm": "e4f3c00246a775193661f9277ca1288cd310a6514de166ecc2176ccd26fb06a9",
-    "/vendor/cell-crypto.js": "191ed2b0ce29cff1e7750e27e766666ff900fa938210b72b2c1e8e785b818bcb",
+    "/vendor/cell-crypto.js": "5864678503eee949ed28f5a4d88b87894a10702d2c46d0d2da32ed4a79661793",
     "/vendor/eff-wordlist.js": "91101c82fa9bd665d952a9490886074f25d1335da68d920a61005e6ffa9d5fb9",
     "/vendor/qrcode.js": "18ae399f81182bc9de916e9c77b195df20cc58d6f2d55a62b085a299f1bf1780"
   }
