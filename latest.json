@@ -1,9 +1,9 @@
 {
   "schema": "cd-release/1",
   "origin": "https://app.cellulardefense.net",
-  "sequence": 16,
-  "commit": "d765831ca5fc3354b95dc4064f73b0cce9b58bab",
-  "released_at": "2026-11-10T23:43:22Z",
+  "sequence": 17,
+  "commit": "17dd18b6f14b4c9b026a61b035a4bcb2eb3f9115",
+  "released_at": "2026-11-21T14:20:55Z",
   "csp": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; worker-src 'self' blob:; connect-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; frame-ancestors 'none'",
   "files": {
     "/": "115de182dd753d224fc48a8741ba02a185a444ede547b827d667618040113482",
@@ -50,7 +50,7 @@
     "/support.js": "bcfa223d476b03dc09c048211e6d286cd55a858793c97dfafaedf4bb5bb88d55",
     "/vendor/cap-widget.js": "97ed03b905a0bdb104f58fb971cfc1ffad72fa35c0b57dd6833f7fc3b48c77d7",
     "/vendor/cap_wasm_bg.wasm": "e4f3c00246a775193661f9277ca1288cd310a6514de166ecc2176ccd26fb06a9",
-    "/vendor/cell-crypto.js": "5864678503eee949ed28f5a4d88b87894a10702d2c46d0d2da32ed4a79661793",
+    "/vendor/cell-crypto.js": "d541d1b1ac96f77d271f410b46555dcc09d88ac81482f615ab9acd91f90351d2",
     "/vendor/eff-wordlist.js": "91101c82fa9bd665d952a9490886074f25d1335da68d920a61005e6ffa9d5fb9",
     "/vendor/qrcode.js": "18ae399f81182bc9de916e9c77b195df20cc58d6f2d55a62b085a299f1bf1780"
   }
